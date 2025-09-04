@@ -1,0 +1,50 @@
+[
+    {
+        "status": "completed",
+        "x": 1.5,
+        "y": 1.1,
+        "z": 0.8,
+        "temperature": 37.5,
+        "timestamp": "2025-09-04 08:55:15"
+    },
+    {
+        "status": "completed",
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "temperature": 35.9,
+        "timestamp": "2025-09-04 08:57:54"
+    },
+    {
+        "status": "completed",
+        "x": 10,
+        "y": 25,
+        "z": 18,
+        "temperature": 37.4,
+        "timestamp": "2025-09-04 08:58:13"
+    },
+    {
+        "status": "completed",
+        "x": 10,
+        "y": 25,
+        "z": 18,
+        "temperature": 36,
+        "timestamp": "2025-09-04 08:59:35"
+    },
+    {
+        "status": "completed",
+        "x": 10,
+        "y": 25,
+        "z": 18,
+        "temperature": 37.3,
+        "timestamp": "2025-09-04 08:59:40"
+    },
+    {
+        "status": "completed",
+        "x": 7,
+        "y": 9,
+        "z": 2,
+        "temperature": 36.8,
+        "timestamp": "2025-09-04 09:05:10"
+    }
+]

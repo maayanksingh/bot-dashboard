@@ -1,0 +1,101 @@
+[
+    {
+        "user_id": 1,
+        "command": "pick",
+        "x": 25.4,
+        "y": 30.2,
+        "z": 0,
+        "timestamp": "2025-09-04 10:15:23",
+        "status": "completed"
+    },
+    {
+        "user_id": 1,
+        "command": "place",
+        "x": 25.4,
+        "y": 30.2,
+        "z": 50,
+        "timestamp": "2025-09-04 10:15:25",
+        "status": "completed"
+    },
+    {
+        "user_id": 1,
+        "command": "weld",
+        "x": 45.8,
+        "y": 62.3,
+        "z": 15.7,
+        "timestamp": "2025-09-04 10:16:00",
+        "status": "completed"
+    },
+    {
+        "user_id": 2,
+        "command": "pick",
+        "x": 10,
+        "y": 20,
+        "z": 5,
+        "timestamp": "2025-09-04 10:30:12",
+        "status": "completed"
+    },
+    {
+        "user_id": 2,
+        "command": "place",
+        "x": 15,
+        "y": 25,
+        "z": 30,
+        "timestamp": "2025-09-04 10:30:15",
+        "status": "completed"
+    },
+    {
+        "user_id": 0,
+        "command": "weld",
+        "x": 1.5,
+        "y": 1.1,
+        "z": 0.8,
+        "timestamp": "2025-09-04 08:55:15",
+        "status": "pending"
+    },
+    {
+        "user_id": 0,
+        "command": "pick",
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "timestamp": "2025-09-04 08:57:54",
+        "status": "pending"
+    },
+    {
+        "user_id": 0,
+        "command": "place",
+        "x": 10,
+        "y": 25,
+        "z": 18,
+        "timestamp": "2025-09-04 08:58:13",
+        "status": "pending"
+    },
+    {
+        "user_id": 0,
+        "command": "pick",
+        "x": 10,
+        "y": 25,
+        "z": 18,
+        "timestamp": "2025-09-04 08:59:35",
+        "status": "pending"
+    },
+    {
+        "user_id": 0,
+        "command": "weld",
+        "x": 10,
+        "y": 25,
+        "z": 18,
+        "timestamp": "2025-09-04 08:59:40",
+        "status": "pending"
+    },
+    {
+        "user_id": 0,
+        "command": "weld",
+        "x": 7,
+        "y": 9,
+        "z": 2,
+        "timestamp": "2025-09-04 09:05:10",
+        "status": "pending"
+    }
+]
